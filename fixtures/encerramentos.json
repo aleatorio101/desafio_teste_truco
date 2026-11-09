@@ -1,0 +1,918 @@
+[
+  {
+    "anteriores": [
+      0
+    ],
+    "ultima": null,
+    "vencedor": 0,
+    "indice": 1,
+    "estado": {
+      "maos": [
+        [
+          null,
+          "3O",
+          null
+        ],
+        [
+          null,
+          "3E",
+          null
+        ],
+        [
+          null,
+          "AO",
+          null
+        ],
+        [
+          null,
+          "KO",
+          null
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        0
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      1
+    ],
+    "ultima": null,
+    "vencedor": 1,
+    "indice": 1,
+    "estado": {
+      "maos": [
+        [
+          null,
+          "3O",
+          null
+        ],
+        [
+          null,
+          "3E",
+          null
+        ],
+        [
+          null,
+          "AO",
+          null
+        ],
+        [
+          null,
+          "KO",
+          null
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        1
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      null
+    ],
+    "ultima": 0,
+    "vencedor": 0,
+    "indice": 1,
+    "estado": {
+      "maos": [
+        [
+          null,
+          "3O",
+          null
+        ],
+        [
+          null,
+          "2O",
+          null
+        ],
+        [
+          null,
+          "AO",
+          null
+        ],
+        [
+          null,
+          "KO",
+          null
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        null
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      null
+    ],
+    "ultima": 1,
+    "vencedor": 1,
+    "indice": 1,
+    "estado": {
+      "maos": [
+        [
+          null,
+          "2O",
+          null
+        ],
+        [
+          null,
+          "3O",
+          null
+        ],
+        [
+          null,
+          "AO",
+          null
+        ],
+        [
+          null,
+          "KO",
+          null
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        null
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      null,
+      null
+    ],
+    "ultima": 0,
+    "vencedor": 0,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "2O"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        null,
+        null
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      null,
+      null
+    ],
+    "ultima": 1,
+    "vencedor": 1,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "2O"
+        ],
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        null,
+        null
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      null,
+      null
+    ],
+    "ultima": null,
+    "vencedor": null,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "3E"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        null,
+        null
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      0,
+      1
+    ],
+    "ultima": null,
+    "vencedor": 0,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "3E"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        0,
+        1
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      1,
+      0
+    ],
+    "ultima": null,
+    "vencedor": 1,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "3E"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        1,
+        0
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      0,
+      1
+    ],
+    "ultima": 0,
+    "vencedor": 0,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "2O"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        0,
+        1
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  },
+  {
+    "anteriores": [
+      0,
+      1
+    ],
+    "ultima": 1,
+    "vencedor": 1,
+    "indice": 2,
+    "estado": {
+      "maos": [
+        [
+          null,
+          null,
+          "2O"
+        ],
+        [
+          null,
+          null,
+          "3O"
+        ],
+        [
+          null,
+          null,
+          "AO"
+        ],
+        [
+          null,
+          null,
+          "KO"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "4E",
+        "4C",
+        "4P",
+        "5O",
+        "5E",
+        "5C",
+        "5P",
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [
+        0,
+        1
+      ],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    }
+  }
+]

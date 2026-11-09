@@ -1,0 +1,1294 @@
+[
+  {
+    "nome": "tres vence dois",
+    "estado": {
+      "maos": [
+        [
+          "3O",
+          "4E",
+          "4C"
+        ],
+        [
+          "2O",
+          "4P",
+          "5O"
+        ],
+        [
+          "AO",
+          "5E",
+          "5C"
+        ],
+        [
+          "KO",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "dois vence as",
+    "estado": {
+      "maos": [
+        [
+          "AO",
+          "4E",
+          "4C"
+        ],
+        [
+          "2O",
+          "4P",
+          "5O"
+        ],
+        [
+          "KO",
+          "5E",
+          "5C"
+        ],
+        [
+          "QO",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "as vence rei",
+    "estado": {
+      "maos": [
+        [
+          "AO",
+          "4E",
+          "4C"
+        ],
+        [
+          "KO",
+          "4P",
+          "5O"
+        ],
+        [
+          "JO",
+          "5E",
+          "5C"
+        ],
+        [
+          "QO",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "rei vence valete",
+    "estado": {
+      "maos": [
+        [
+          "JO",
+          "4E",
+          "4C"
+        ],
+        [
+          "KO",
+          "4P",
+          "5O"
+        ],
+        [
+          "QO",
+          "5E",
+          "5C"
+        ],
+        [
+          "7O",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "valete vence dama",
+    "estado": {
+      "maos": [
+        [
+          "JO",
+          "4E",
+          "4C"
+        ],
+        [
+          "QO",
+          "4P",
+          "5O"
+        ],
+        [
+          "7O",
+          "5E",
+          "5C"
+        ],
+        [
+          "6O",
+          "5P",
+          "6E"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6C",
+        "6P",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "dama vence sete",
+    "estado": {
+      "maos": [
+        [
+          "7O",
+          "4C",
+          "4P"
+        ],
+        [
+          "QO",
+          "5O",
+          "5E"
+        ],
+        [
+          "6O",
+          "5C",
+          "5P"
+        ],
+        [
+          "4E",
+          "6E",
+          "6C"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6P",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "sete vence seis",
+    "estado": {
+      "maos": [
+        [
+          "7O",
+          "4P",
+          "5O"
+        ],
+        [
+          "6O",
+          "5E",
+          "5C"
+        ],
+        [
+          "4E",
+          "5P",
+          "6E"
+        ],
+        [
+          "4C",
+          "6C",
+          "6P"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "seis vence cinco",
+    "estado": {
+      "maos": [
+        [
+          "6O",
+          "4O",
+          "4P"
+        ],
+        [
+          "5O",
+          "5E",
+          "5C"
+        ],
+        [
+          "4E",
+          "5P",
+          "6E"
+        ],
+        [
+          "4C",
+          "6C",
+          "6P"
+        ]
+      ],
+      "vira": "7O",
+      "baralhoRestante": [
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "cinco vence quatro",
+    "estado": {
+      "maos": [
+        [
+          "4O",
+          "4P",
+          "5E"
+        ],
+        [
+          "5O",
+          "5C",
+          "5P"
+        ],
+        [
+          "4E",
+          "6O",
+          "6E"
+        ],
+        [
+          "4C",
+          "6C",
+          "6P"
+        ]
+      ],
+      "vira": "7O",
+      "baralhoRestante": [
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "vira seis torna sete manilha",
+    "estado": {
+      "maos": [
+        [
+          "3O",
+          "4O",
+          "4E"
+        ],
+        [
+          "7O",
+          "4C",
+          "4P"
+        ],
+        [
+          "AO",
+          "5O",
+          "5E"
+        ],
+        [
+          "KO",
+          "5C",
+          "5P"
+        ]
+      ],
+      "vira": "6O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "vira sete torna dama manilha",
+    "estado": {
+      "maos": [
+        [
+          "3O",
+          "4O",
+          "4E"
+        ],
+        [
+          "2O",
+          "4C",
+          "4P"
+        ],
+        [
+          "QO",
+          "5O",
+          "5E"
+        ],
+        [
+          "AO",
+          "5C",
+          "5P"
+        ]
+      ],
+      "vira": "7O",
+      "baralhoRestante": [
+        "6O",
+        "6E",
+        "6C",
+        "6P",
+        "7E",
+        "7C",
+        "7P",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 2
+  },
+  {
+    "nome": "vira tres retorna quatro manilha",
+    "estado": {
+      "maos": [
+        [
+          "4O",
+          "4E",
+          "4C"
+        ],
+        [
+          "2O",
+          "4P",
+          "5O"
+        ],
+        [
+          "AO",
+          "5E",
+          "5C"
+        ],
+        [
+          "KO",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "3O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  },
+  {
+    "nome": "paus vence copas espadas ouros",
+    "estado": {
+      "maos": [
+        [
+          "5O",
+          "4E",
+          "4C"
+        ],
+        [
+          "5E",
+          "4P",
+          "6O"
+        ],
+        [
+          "5C",
+          "6E",
+          "6C"
+        ],
+        [
+          "5P",
+          "6P",
+          "7O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3O",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 3
+  },
+  {
+    "nome": "copas vence espadas e ouros",
+    "estado": {
+      "maos": [
+        [
+          "5O",
+          "4E",
+          "4C"
+        ],
+        [
+          "5E",
+          "4P",
+          "5P"
+        ],
+        [
+          "5C",
+          "6O",
+          "6E"
+        ],
+        [
+          "3O",
+          "6C",
+          "6P"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2O",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 2
+  },
+  {
+    "nome": "espadas vence ouros",
+    "estado": {
+      "maos": [
+        [
+          "5O",
+          "4E",
+          "4C"
+        ],
+        [
+          "5E",
+          "4P",
+          "5C"
+        ],
+        [
+          "3O",
+          "5P",
+          "6O"
+        ],
+        [
+          "2O",
+          "6E",
+          "6C"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C",
+        "3P"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 1
+  },
+  {
+    "nome": "naipes nao desempatar cartas comuns",
+    "estado": {
+      "maos": [
+        [
+          "3O",
+          "4E",
+          "4C"
+        ],
+        [
+          "3P",
+          "4P",
+          "5O"
+        ],
+        [
+          "2E",
+          "5E",
+          "5C"
+        ],
+        [
+          "AE",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AO",
+        "AC",
+        "AP",
+        "2O",
+        "2C",
+        "2P",
+        "3E",
+        "3C"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": null
+  },
+  {
+    "nome": "cartas maximas de parceiros vencem",
+    "estado": {
+      "maos": [
+        [
+          "3O",
+          "4E",
+          "4C"
+        ],
+        [
+          "2O",
+          "4P",
+          "5O"
+        ],
+        [
+          "3P",
+          "5E",
+          "5C"
+        ],
+        [
+          "AO",
+          "5P",
+          "6O"
+        ]
+      ],
+      "vira": "4O",
+      "baralhoRestante": [
+        "6E",
+        "6C",
+        "6P",
+        "7O",
+        "7E",
+        "7C",
+        "7P",
+        "QO",
+        "QE",
+        "QC",
+        "QP",
+        "JO",
+        "JE",
+        "JC",
+        "JP",
+        "KO",
+        "KE",
+        "KC",
+        "KP",
+        "AE",
+        "AC",
+        "AP",
+        "2E",
+        "2C",
+        "2P",
+        "3E",
+        "3C"
+      ],
+      "placar": [
+        0,
+        0
+      ],
+      "turno": 0,
+      "maoInicial": 0,
+      "rodada": {
+        "iniciador": 0,
+        "jogadas": []
+      },
+      "resultados": [],
+      "valorMao": 1,
+      "ultimaProposta": null,
+      "pedido": null,
+      "fase": "em_andamento",
+      "modo": "normal",
+      "vencedor": null,
+      "vencedorMao": null
+    },
+    "vencedor": 0
+  }
+]
