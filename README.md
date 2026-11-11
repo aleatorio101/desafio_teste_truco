@@ -15,14 +15,16 @@ Não existe implementação, interface gráfica, mock ou solução de referênci
 
 ## Execução
 
-Requer Node.js 24 e npm. Não há dependências externas nem necessidade de `npm install`.
+Requer Node.js 24 e npm. Usamos **Jest 30.5.2**, fixado no `package-lock.json`.
+Instale as dependências de desenvolvimento antes de executar:
 
 ```sh
+npm ci
 npm test
 ```
 
 **Situação esperada nesta entrega:** o comando termina com código diferente de zero,
-com `ERR_MODULE_NOT_FOUND`, porque `src/jogo.js` ainda não existe. Isso não demonstra
+com `Cannot find module` para `src/jogo.js`, porque `src/jogo.js` ainda não existe. Isso não demonstra
 que os cenários passaram. Depois de implementar o contrato abaixo, o mesmo comando
 deverá executar todos os casos e passar sem alterações nos testes.
 Não desabilitar casos nem transformar falhas em sucesso.
@@ -138,13 +140,23 @@ Exemplo: `executarAcao(criarJogo({baralho}), {tipo:'jogar',jogador:0,carta:0,cob
 - `fixtures/*.json`: entradas fixas e estados intermediários explícitos.
 - `tests/apoio.js`: importações, asserções e verificações de imutabilidade; não contém regras.
 - As tabelas de casos têm expectativas literais. Laços apenas enumeram dados ou executam ações.
-- Usamos `node:test` e `node:assert/strict`; não há `skip`, `todo`, rede, relógio ou aleatoriedade.
+- Usamos `test` e `expect` de `@jest/globals`; não há `skip`, `todo`, rede, relógio ou aleatoriedade.
 - Os prefixos dos casos identificam a regra. Leia cada nome e suas asserções para encontrar
   o comportamento exigido; os exemplos e as tabelas são parte da especificação.
+
+O `npm test` já configura ESM para Jest no Windows e no Linux. O aviso de módulos VM
+experimentais é esperado nessa configuração. Não instalar Jest globalmente.
+Com a implementação presente, `npm run test:coverage` mede somente `src/**/*.js`.
 
 ## Critérios de aceitação
 
 Uma implementação compatível preserva todos os testes, passa em `npm test`, respeita
 os erros e a imutabilidade e não expõe informação escondida por `obterVisao`.
-Os testes publicados não provam cobertura de um programa que ainda não existe;
-não há percentual de cobertura ou aprovação funcional alegado nesta entrega.
+A cobertura medida é da implementação de ensaio, não de qualquer implementação futura;
+a validação prática de uma reconstrução e seus limites estão em [VALIDACAO.md](VALIDACAO.md).
+
+## Validação prática com Jest
+
+Uma implementação de ensaio, mantida fora deste repositório, foi reconstruída a partir
+da especificação e passou nos **59 testes ativos**. Os cinco defeitos artificiais
+selecionados para este jogo foram detectados. Consulte [VALIDACAO.md](VALIDACAO.md).
